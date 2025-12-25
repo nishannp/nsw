@@ -1,0 +1,16 @@
+# Node
+node_modules
+client/node_modules
+client/dist
+.env
+.DS_Store
+
+# PHP
+vendor/
+composer.lock
+
+# VS Code
+.vscode/
+
+# Logs
+error_log
